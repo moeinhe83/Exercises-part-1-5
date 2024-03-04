@@ -6,7 +6,7 @@ Programming Language ===> Python
 
 Program Name ===> The Fifth Exercise
 
-Example ===> Write A Program That takes a number from the user and checks whether the Number Is Divisible By 3 & 6
+Example ===> Write A Program That takes a number from the user and checks whether The Number Is Divisible By 3 & 6
 
 Description Of Files:
 
