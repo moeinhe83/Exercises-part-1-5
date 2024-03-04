@@ -4,7 +4,7 @@ Question Number ===> 5
 
 Programming Language ===> Python
 
-Program Name ===> The fifth exercise
+Program Name ===> The Fifth exercise
 
 Example ===> Write a program that takes a number from the user and checks whether the number is divisible by 3 and 6
 
